@@ -1,0 +1,7 @@
+{
+  "name": "SafeWallet_Sagl",
+  "description": "Un tracker per portafogli moderno e intelligente con geolocalizzazione, avvisi di separazione e assistenza IA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
